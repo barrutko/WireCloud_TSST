@@ -23,6 +23,7 @@ namespace WireCloud
             DeviceContainer deviceContainer = new DeviceContainer(devicesPath, linkTable);
             int managerPortNumber;
             Thread managerThread;
+
             if (args.Length>0)
             {
                 if(Int32.TryParse(args[0], out managerPortNumber))
