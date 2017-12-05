@@ -1,0 +1,8 @@
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\bin\Release\WireCloud.exe.config
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\bin\Release\WireCloud.exe
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\bin\Release\WireCloud.pdb
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\bin\Release\ManagementDataObjects.dll
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\obj\Release\WireCloud.csprojResolveAssemblyReference.cache
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\obj\Release\WireCloud.csproj.CoreCompileInputs.cache
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\obj\Release\WireCloud.exe
+C:\Users\Bartłomiej\source\repos\WireCloud\WireCloud\obj\Release\WireCloud.pdb
